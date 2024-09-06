@@ -28,8 +28,8 @@ Scheme
         
         "HealthPickupColor" "0 255 0 255"
         
-        "FullUberColor1"	"34 164 135 255"    
-        "FullUberColor2"	"0 146 118 255" 
+        "FullUberColor1"	"253 185 39 255"    
+        "FullUberColor2"	"236 204 24 255" 
         
         //////////////////////////////////////////////////
         ///////////////////BASE COLORS////////////////////

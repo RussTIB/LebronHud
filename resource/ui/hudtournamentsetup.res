@@ -128,7 +128,7 @@
 		"selectedFgColor_override" 	"255 255 255 255"
 		"bgcolor"			"0 0 0 170"
 		"defaultBgColor_override" 	"0 0 0 170"
-		"armedBgColor_override" 	"34 164 135 255"
+		"armedBgColor_override" 	"253 185 39 255"
 		"depressedBgColor_override" 	"0 0 0 170"
 		"selectedBgColor_override" 	"0 0 0 170"
 	}

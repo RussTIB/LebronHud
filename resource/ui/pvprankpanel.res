@@ -412,7 +412,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"34 164 135 255"
+						"fgcolor_override"	"253 185 39 255"
 						
 						if_mini
 						{
