@@ -21,7 +21,7 @@ Scheme
         "RaysButtonHover"       "68 156 200 255"
         
         "SourceWhite"             "220 220 220 255"
-        "SourceColor"             "34 164 135 255"
+        "SourceColor"             "253 185 39 255"
         "SourceDark"              "32 32 32 255"
 
         // TF2

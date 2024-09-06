@@ -28,8 +28,8 @@ Scheme
         
         "HealthPickupColor" "0 255 0 255"
         
-        "FullUberColor1"	"34 164 135 255"    
-        "FullUberColor2"	"0 146 118 255" 
+        "FullUberColor1"	"253 185 39 255"    
+        "FullUberColor2"	"236 204 24 255" 
         
         //////////////////////////////////////////////////
         ///////////////////BASE COLORS////////////////////
@@ -2081,6 +2081,45 @@ Scheme
                 "antialias" "1"
             }
         }
+				////////////////////////////////////////////////////////////////////////////////////////////////
+		// Icon Fonts
+		////////////////////////////////////////////////////////////////////////////////////////////////
+		"Icons14"
+		{
+			"1"
+			{
+			"name"	"TF2 Icons"
+			"tall"	"16"
+			"antialias" "1"
+			}
+		}
+		"Icons16"
+		{
+			"1"
+			{
+			"name"	"TF2 Icons"
+			"tall"	"16"
+			"antialias" "1"
+			}
+		}
+		"Icons18"
+		{
+			"1"
+			{
+			"name"	"TF2 Icons"
+			"tall"	"18"
+			"antialias" "1"
+			}
+		}
+		"Icons20"
+		{
+			"1"
+			{
+			"name"	"TF2 Icons"
+			"tall"	"20"
+			"antialias" "1"
+			}
+		}
         "HudFontMediumSecondary"
         {
             "1"
@@ -6981,5 +7020,10 @@ Scheme
             "font" "resource/fonts/product.TTF"
             "name" "Product Sans"
         }
+		"13"
+		{
+			"font"	"resource/fonts/TF2 Icons.ttf"
+			"name"	"TF2 Icons"
+		}
     }
 }

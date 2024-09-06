@@ -104,9 +104,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -171,9 +171,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -232,9 +232,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -293,9 +293,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -361,9 +361,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -422,9 +422,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -483,9 +483,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -551,9 +551,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -612,9 +612,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -673,9 +673,9 @@
 		
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -737,9 +737,9 @@
 		"paintbackground"	"0"
 		"fgcolor"			"255 255 255 255"
 		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
+		"armedFgColor_override" 	"253 185 39 255"
 		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"selectedFgColor_override" 	"253 185 39 255"
 	}
 
 	"ResetButton" [$WIN32] 
